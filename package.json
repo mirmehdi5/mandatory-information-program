@@ -1,0 +1,52 @@
+{
+  "name": "mip",
+  "version": "0.1.0",
+  "homepage": "http://13.68.136.226/mip/build",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "create-react-app": "^3.0.1",
+    "emailjs-com": "^2.3.2",
+    "mdbreact": "^4.17.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-burger-menu": "^2.6.10",
+    "react-collapsible": "^2.6.0",
+    "react-compound-timer": "^1.1.1",
+    "react-dom": "^16.8.6",
+    "react-quiz-component": "^0.2.7",
+    "react-radio-buttons": "^1.2.2",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-show-more-text": "^1.2.3",
+    "react-simple-storage": "^1.4.1",
+    "react-slide-menu": "^0.5.1",
+    "reactstrap": "^8.0.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "video-react": "^0.13.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
